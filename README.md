@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SexyPants
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
@@ -29,4 +29,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # ng2-component-library
 ng2-component-library
->>>>>>> 75ec3228e8cc508e50d4b77da99dad8a502bc12e
